@@ -307,30 +307,3 @@ The script employs a modular design:
 3. **Safety Layer**: Preview, validation, and conflict resolution
 4. **Logging System**: Comprehensive operation tracking
 
-## Contributing
-
-We welcome contributions for:
-
-- Additional character mappings
-- Performance optimizations
-- Cross-platform compatibility improvements
-- Enhanced error handling
-- User interface improvements
-
-Please ensure code follows existing patterns and includes appropriate testing.
-
-## License
-
-This project is released under a permissive license. See LICENSE file for details.
-
-## Support
-
-For technical support:
-1. Review `file_rename.log` for diagnostic information
-2. Test with preview mode to validate behavior
-3. Submit issues with directory structure examples
-4. Include custom replacement configurations when relevant
-
----
-
-**Recommendation**: Always execute initial operations in preview mode to validate character replacement rules and assess the scope of changes before implementing modifications.
